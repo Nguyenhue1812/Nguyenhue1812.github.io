@@ -436,6 +436,33 @@ footer {
     margin: 20px 0;
     font-family: var(--subtext);
 }
+/*----------cac-dia-diem-du-lich-tai-ha-long----------*/
+.activity {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+.activity img {
+    float: left;
+    margin-right: 20px;
+    width: 200px;
+    height: auto;
+    border-radius: 5px;
+}
+.activity h3 {
+    color: #333;
+    margin-top: 0;
+}
+.activity p {
+    color: #666;
+}
+.activity-text h2 {
+    font-family: var(--subtext);
+    font-weight: normal;
+    color: var(--main-color);
+}
 
 /*---------------lien-he------------*/
 .form-container input[type=text],
